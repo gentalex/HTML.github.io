@@ -13,3 +13,9 @@ h1{
     body {
     background-color: #d9e806;
     }
+
+     a{
+    font-size: 20px;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    }
